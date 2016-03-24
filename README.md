@@ -1,5 +1,5 @@
 # roRunner
-Random key press runner for Roku devices
+Random command key press runner for Roku devices
 
 ## Usage:
 `sh roRunner.sh -t <IP_ADDRESS> -s <SLEEP_TIME> -r optional: Replay text file in same folder"`
